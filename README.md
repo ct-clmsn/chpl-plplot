@@ -9,4 +9,6 @@ GTK+, Cairo, gd, pdf, etc (cross platform)
 
 Rendering options: http://plplot.sourceforge.net/credits.php
 
+License: Apache2
+
 ct(.)clsmn(at)gmail
